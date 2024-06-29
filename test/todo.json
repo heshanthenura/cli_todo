@@ -1,0 +1,92 @@
+{
+    "taskLists": [
+      {
+        "title": "Personal",
+        "tasks": [
+          {
+            "description": "Complete Nim tutorial",
+            "addedDate": "2024-06-17",
+            "dueDate": "2024-06-20",
+            "status": "completed"
+          },
+          {
+            "description": "Buy groceries",
+            "addedDate": "2024-06-17",
+            "dueDate": "2024-06-19",
+            "status": "pending"
+          },
+          {
+            "description": "Plan weekend trip",
+            "addedDate": "2024-06-16",
+            "dueDate": "2024-06-21",
+            "status": "in progress"
+          }
+        ],
+        "statistics": {
+          "totalTasks": 3,
+          "completedTasks": 1,
+          "pendingTasks": 1,
+          "inProgressTasks": 1
+        }
+      },
+      {
+        "title": "Work",
+        "tasks": [
+          {
+            "description": "Prepare presentation",
+            "addedDate": "2024-06-15",
+            "dueDate": "2024-06-18",
+            "status": "completed"
+          },
+          {
+            "description": "Update project plan",
+            "addedDate": "2024-06-16",
+            "dueDate": "2024-06-19",
+            "status": "pending"
+          },
+          {
+            "description": "Review team feedback",
+            "addedDate": "2024-06-17",
+            "dueDate": "2024-06-20",
+            "status": "in progress"
+          }
+        ],
+        "statistics": {
+          "totalTasks": 3,
+          "completedTasks": 1,
+          "pendingTasks": 1,
+          "inProgressTasks": 1
+        }
+      },
+      {
+        "title": "Hobbies",
+        "tasks": [
+          {
+            "description": "Read new book",
+            "addedDate": "2024-06-14",
+            "dueDate": "2024-06-21",
+            "status": "completed"
+          },
+          {
+            "description": "Practice guitar",
+            "addedDate": "2024-06-15", 
+            "dueDate": "2024-06-22",
+            "status": "pending"
+          },
+          {
+            "description": "Work on model kit",
+            "addedDate": "2024-06-16",
+            "dueDate": "2024-06-23",
+            "status": "in progress"
+          }
+        ],
+        "statistics": {
+          "totalTasks": 3,
+          "completedTasks": 1,
+          "pendingTasks": 1,
+          "inProgressTasks": 1
+        }
+      }
+    ]
+  }
+  
